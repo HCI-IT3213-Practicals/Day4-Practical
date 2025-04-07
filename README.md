@@ -22,7 +22,7 @@ This session marks the completion of all major functional operations required fo
 
 ## Features Implemented in Day 04:
 
-### 1. **Basic Arithmetic Operations (+, -, *, /)**
+### 1. Basic Arithmetic Operations (+, -, *, /)
    - All four fundamental arithmetic operations are now fully functional.
    - When an operation is pressed (like +, -, *, or /), the corresponding operation is applied to the values on the screen.
    - The app supports sequential operations and correct precedence handling.
@@ -49,6 +49,10 @@ This session marks the completion of all major functional operations required fo
    - Performs the calculation based on the numbers and operations entered.
    - Displays the result of the calculation.
    - **Example**: If the screen shows `5 + 3 * 2`, clicking `=` will display `11`.
+
+
+https://github.com/user-attachments/assets/a8510290-3b56-48d2-8158-3e6a63da87fa
+
 
 ---
 
